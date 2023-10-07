@@ -1,0 +1,11 @@
+﻿Introduction to data science :
+                            The  simplest  definition  of  data  science  is  the extraction of actionable insights from raw data.  •Turing  award  winner  Jim  Gray  imagined  data science  as  a  "fourth  paradigm"  of  science (empirical,  theoretical,  computational  and  now data-driven)  and  asserted  that  "everything  about science  is  changing  because  of  the  impact  of information technology" and the data deluge
+  Customer Prediction - System can be trained based on customer behavior patterns to predict the likelihood of a customer buying a product
+   Service Planning - Restaurants can predict how many customers will visit on the weekend and plan their food inventory to handle the demand 
+Python for data science:
+                               A simple and easy to learn language which achieves result in fewer lines of code than other similar languages like R. Its simplicity also makes it robust to handle complex scenarios with minimal code and much less confusion on the general flow of the program.
+It is cross platform, so the same code works in multiple environments without needing any change. That makes it perfect to be used in a multi-environment setup easily.
+It executes faster than other similar languages used for data analysis like R and MATLAB.
+Its excellent memory management capability, especially garbage collection makes it versatile in gracefully managing very large volume of data transformation, slicing, dicing and visualization.
+Most importantly Python has got a very large collection of libraries which serve as special purpose analysis tools. For example – the NumPy package deals with scientific computing and its array needs much less memory than the conventional python list for managing numeric data. And the number of such packages is continuously growing.
+Python has packages which can directly use the code from other languages like Java or C. This helps in optimizing the code performance by using existing code of other languages, whenever it gives a better result.
